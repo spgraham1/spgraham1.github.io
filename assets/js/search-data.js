@@ -431,16 +431,14 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+    },{id: "news-our-preprint-on-the-human-microbiome-compendium-is-now-out",
+          title: 'Our preprint on the Human Microbiome Compendium is now out!',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-i-was-selected-as-the-2024-recipient-of-the-ray-c-anderson-zoology-and-genetics-fellowship-at-the-university-of-minnesota",
+          title: 'I was selected as the 2024 recipient of the Ray C. Anderson Zoology...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-i-was-selected-as-the-2024-recipient-of-the-robert-k-herman-award-given-annually-to-a-mcdb-amp-amp-g-student-in-recognition-of-research-in-the-field-of-genetics",
+          title: 'I was selected as the 2024 recipient of the Robert K. Herman Award,...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
