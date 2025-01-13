@@ -29,6 +29,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-was-selected-as-the-2024-recipient-of-the-ray-c-anderson-zoology-and-genetics-fellowship-at-the-university-of-minnesota",
           title: 'I was selected as the 2024 recipient of the Ray C. Anderson Zoology...',
           description: "",
+          section: "News",},{id: "news-i-gave-a-talk-at-ismb-on-the-human-microbiome-compendium",
+          title: 'I gave a talk at ISMB on the Human Microbiome Compendium',
+          description: "",
           section: "News",},{id: "news-i-was-selected-as-the-2024-recipient-of-the-robert-k-herman-award-given-annually-to-a-mcdb-amp-amp-g-student-in-recognition-of-research-in-the-field-of-genetics",
           title: 'I was selected as the 2024 recipient of the Robert K. Herman Award,...',
           description: "",
@@ -52,13 +55,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://www.linkedin.com/in/https://www.linkedin.com/in/samantha-graham-a70841bb/", "_blank");
-        },
-      },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
         },
       },{
       id: 'light-theme',
