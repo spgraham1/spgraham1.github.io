@@ -32,20 +32,22 @@
       "name": "University of Minnesota",
       "position": "PhD Candidate",
       "startDate": "2020-08-01",
-      "endDate": "present",
+      "endDate": "2025-07-01",
       "summary": "My work focuses on the human gut microbiome. I've collaborated to generate the largest publicly available dataset of uniformly processed human gut microbiome data, available at MicroBioMap.org."
     }
   ],
   "education": [
     {
       "institution": "University of Minnesota",
-      "location": "Minneapolis, Minnesota, USA",
+      "location": "Minneapolis, MN",
       "area": "Bioinformatics / Computational Biology",
-      "studyType": "PhD"
+      "studyType": "PhD",
+      "startDate": "2020-08-01",
+      "endDate": "2025-07-01"
     },
     {
       "institution": "University of Southern California",
-      "location": "Los Angeles, California, USA",
+      "location": "Los Angeles, CA",
       "area": "Quantitative Biology",
       "studyType": "B.S.",
       "startDate": "2016-08-15",
