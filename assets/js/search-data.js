@@ -54,7 +54,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/https://www.linkedin.com/in/samantha-graham-a70841bb/", "_blank");
+          window.open("https://www.linkedin.com/in/samantha-graham-a70841bb/", "_blank");
         },
       },{
       id: 'light-theme',
