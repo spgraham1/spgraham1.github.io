@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My co-first author [paper](https://www.cell.com/cell/fulltext/S0092-8674(24)01430-2) is out now in Cell!
+My co-first author [paper](https://doi.org/10.1016/j.cell.2024.12.017) is out now in Cell!
