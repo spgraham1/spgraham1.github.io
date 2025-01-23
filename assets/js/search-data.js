@@ -35,6 +35,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-was-selected-as-the-2024-recipient-of-the-robert-k-herman-award-given-annually-to-a-mcdb-amp-amp-g-student-in-recognition-of-research-in-the-field-of-genetics",
           title: 'I was selected as the 2024 recipient of the Robert K. Herman Award,...',
           description: "",
+          section: "News",},{id: "news-my-co-first-author-paper-is-out-now-in-cell",
+          title: 'My co-first author paper is out now in Cell!',
+          description: "",
           section: "News",},{
         id: 'social-bluesky',
         title: 'Bluesky',
