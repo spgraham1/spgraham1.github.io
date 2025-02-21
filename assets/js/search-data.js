@@ -53,6 +53,13 @@ ninja.data = [{
           window.open("mailto:%67%72%61%68%61%38%38%30@%75%6D%6E.%65%64%75", "_blank");
         },
       },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/spgraham1", "_blank");
+        },
+      },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
