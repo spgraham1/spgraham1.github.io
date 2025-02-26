@@ -38,8 +38,8 @@ ninja.data = [{
           section: "News",},{id: "news-my-co-first-author-paper-is-out-now-in-cell",
           title: 'My co-first author paper is out now in Cell!',
           description: "",
-          section: "News",},{id: "news-cell-cover-announcement",
-          title: 'Cell cover announcement',
+          section: "News",},{id: "news-our-paper-is-on-the-cover-of-cell",
+          title: 'Our paper is on the cover of Cell!',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/cover_announcement/";
