@@ -6,7 +6,7 @@ inline: false
 related_posts: false
 ---
 
-My [co-first author paper](https://www.cell.com/cell/issue?pii=S0092-8674(24)X0005-7#fullCover) is featured on the cover of the February 20, 2025 issue of Cell!
+My [co-first author paper](https://doi.org/10.1016/j.cell.2024.12.017) is featured on the cover of the February 20, 2025 issue of Cell!
 ---
 
 <div class="row mt-3">
