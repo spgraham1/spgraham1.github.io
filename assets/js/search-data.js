@@ -38,7 +38,12 @@ ninja.data = [{
           section: "News",},{id: "news-my-co-first-author-paper-is-out-now-in-cell",
           title: 'My co-first author paper is out now in Cell!',
           description: "",
-          section: "News",},{
+          section: "News",},{id: "news-cell-cover-announcement",
+          title: 'Cell cover announcement',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/cover_announcement/";
+            },},{
         id: 'social-bluesky',
         title: 'Bluesky',
         section: 'Socials',
