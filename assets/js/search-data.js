@@ -43,7 +43,10 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/cover_announcement/";
-            },},{
+            },},{id: "news-i-was-selected-as-a-recipient-of-the-beatrice-z-milne-and-theodore-brandenburg-award-given-annually-to-graduate-students-in-a-phd-program-at-the-university-of-minnesota-medical-school-in-recognition-of-exceptional-thesis-research-in-the-basic-biomedical-sciences",
+          title: 'I was selected as a recipient of the Beatrice Z. Milne and Theodore...',
+          description: "",
+          section: "News",},{
         id: 'social-bluesky',
         title: 'Bluesky',
         section: 'Socials',
