@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our review[https://www.sciencedirect.com/science/article/pii/S0966842X25001556] on analyzing microbiome data from global populations is out now in Trends in Microbiology!
+Our [review](https://www.sciencedirect.com/science/article/pii/S0966842X25001556) on analyzing microbiome data from global populations is out now in Trends in Microbiology!
