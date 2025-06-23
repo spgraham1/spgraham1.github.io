@@ -46,6 +46,9 @@ ninja.data = [{
             },},{id: "news-i-was-selected-as-a-recipient-of-the-beatrice-z-milne-and-theodore-brandenburg-award-given-annually-to-graduate-students-in-a-phd-program-at-the-university-of-minnesota-medical-school-in-recognition-of-exceptional-thesis-research-in-the-basic-biomedical-sciences",
           title: 'I was selected as a recipient of the Beatrice Z. Milne and Theodore...',
           description: "",
+          section: "News",},{id: "news-our-review-https-www-sciencedirect-com-science-article-pii-s0966842x25001556-dgcid-author-on-analyzing-microbiome-data-from-global-populations-is-out-now-in-trends-in-microbiology",
+          title: 'Our review[https://www.sciencedirect.com/science/article/pii/S0966842X25001556?dgcid=author] on analyzing microbiome data from global populations is out now in...',
+          description: "",
           section: "News",},{
         id: 'social-bluesky',
         title: 'Bluesky',
