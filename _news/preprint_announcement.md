@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our [preprint](https://www.biorxiv.org/content/10.1101/2023.10.11.560955v1) on the Human Microbiome Compendium is now out!
+Our [preprint](https://doi.org/10.1101/2023.10.11.560955) on the Human Microbiome Compendium is now out!
